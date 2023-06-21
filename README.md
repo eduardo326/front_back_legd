@@ -1,6 +1,6 @@
 # Desplegar en local Proyecto FRONT
 
-Esta es una aplicacion tipo Front que consume el Api_rest que se encuenta en el repositorio `eduardo326/back-api-rest-01-node`
+Esta es una aplicacion tipo Front que consume el Api_rest de GitHub
 
 Este proyecto se generó con Angular CLI versión 16.1.0. Para correr el proyecto en el local, debe seguir las siguientes instrucciones
 
