@@ -13,6 +13,9 @@ Ejecutar `npm install` para descargar las dependencias. De esta manera estara li
 Ejecutar `ng serve` para levantar un servidor en su local. Navegar con la ruta http://localhost:4200/.
 
 
+
+
+
 # Desplegar en local Proyecto BACK
 
 Esta es la aplicacion Back, esta contruida con lenguaje php en la version 7.3 y con el framework Laravel en la version 10. La base de datos utilizada es MySQL
